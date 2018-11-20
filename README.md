@@ -24,7 +24,7 @@ mysql_download_version: "mysql-5.7.18-linux-glibc2.5-x86_64"
 
 mysql_root_db_pass: XXXXXXXX
 
-mysql_instance_name: "cloud101"
+mysql_instance_name: ""
 
 mysql_port: 3301
 
